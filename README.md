@@ -1,1 +1,3 @@
-# data_collection_challenge
+For this challenge, I referenced the previous activities solutions for guidance on some of the setup for the webscraping. 
+
+Additionally, I utilized Xpert AI for assistance with some troubleshooting and road blocks I faced. For the final two bar plots (coldest and hottest months in Curiosity's location, and average pressure by month) I queried Xpert AI a ton to troubleshoot my issue plotting in ascending order of temp/pressure. I also looked through the matplotlib.org documentation but was unsuccessful in my search for this solution.
